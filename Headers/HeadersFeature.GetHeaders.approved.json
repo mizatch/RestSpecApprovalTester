@@ -1,0 +1,9 @@
+﻿{
+    
+   "Host":  "headers.jsontest.com",
+    
+   "User-Agent":  "RestSharp/105.0.1.0",
+    
+   "Accept":  "application/json, application/xml, text/json, text/x-json, text/javascript, text/xml"
+
+}
